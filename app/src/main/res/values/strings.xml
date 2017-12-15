@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NearbyTest</string>
+    <string name="advertise">Advertise</string>
+    <string name="search">Search</string>
+    <string name="star_wars">Star Wars</string>
+    <string name="send">Send</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="reset">Reset</string>
+</resources>
